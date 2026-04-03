@@ -17,7 +17,7 @@ $(call add-radio-file-sha1-checked,radio/featenabler.img,66514dca6cf5aa4df0cc7bc
 $(call add-radio-file-sha1-checked,radio/hyp.img,41c8e8717980a510de2fd4aa1c74f73ed2f2331b)
 $(call add-radio-file-sha1-checked,radio/imagefv.img,2ffed7027cba4573089c16bf304dcec282e69cb7)
 $(call add-radio-file-sha1-checked,radio/keymaster.img,b2ae4b077b0065180db295efceb4c9c7b94f6be1)
-$(call add-radio-file-sha1-checked,radio/modem.img,c9810c418e942ef08be230ea5d9af4fb415a9210)
+$(call add-radio-file-sha1-checked,radio/modem.img,9044ad4c5dc22442e1800cd4d341c1d811d9dd45)
 $(call add-radio-file-sha1-checked,radio/qupfw.img,cf59736158c37552613adb0a66eb42ecba0d4198)
 $(call add-radio-file-sha1-checked,radio/shrm.img,9090b4799e7dd4c839eeff37b47a25549ac64e9a)
 $(call add-radio-file-sha1-checked,radio/tz.img,1786ed18a25b1875f792a5ce258c6e01bcbfe939)
